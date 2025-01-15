@@ -23,7 +23,7 @@ Currently, I'm focused on learning and developing my skills in the field of cybe
 | 🎯 **Goal**            | 📋 **Description**                                                                 |
 |------------------------|-------------------------------------------------------------------------------------|
 | 🎓 **Study Engineering**  | Deepen my knowledge in information technology and earn a university degree.         |
-| 🛡️ **Certifications**      | Obtain certifications such as `CEH`, `OSCP`, and `CISSP`.                          |
+| 🛡️ **Certifications**      | Obtain certifications such as `CEH`, `OSCP`, and `CISSP` , `eJPT`.                          |
 
 ---
 
@@ -36,12 +36,14 @@ Currently, I'm focused on learning and developing my skills in the field of cybe
 | 🎨 **CSS**        | Advanced      | Styling and visual design       |
 | 🐘 **PHP**        | Intermediate  | Back-end and web development    |
 | 🐍 **Python**     | Intermediate  | Automation and scripting         |
+| 🐍 **Java**     | Intermediate  | App development         |
+| 🐍 **C#**     | Intermediate  | App development         |
 
 ---
 
 ## 💻 Operating System
 
-- 🐦 **Main System**: Using `Parrot OS` with a custom-configured window manager `BSPWM`.
+- 🐦 **Main System**: Using `Kali` with a custom-configured window manager `BSPWM`.
 
 ---
 
@@ -54,7 +56,7 @@ I am passionate about CTFs (Capture The Flag) as a practical learning method in 
 - 🎓 [TryHackMe](https://tryhackme.com)
 - 🐱‍💻 [Hack The Box](https://www.hackthebox.com)
 
-📂 You can find my CTF reports and solutions in my [CTF Repository](https://github.com/gloxito/CTFs).
+📂 You can find my CTF reports and solutions in my [CTF Repository](https://github.com/Nicolasguerra9/Labs.git).
 
 ---
 
